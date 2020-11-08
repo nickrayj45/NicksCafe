@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .clearfix:after {
@@ -13,6 +15,7 @@
 body {
   background: #f2a65a;
   font-size: 18px;
+  text-align: center;
 }
 
 h1,
