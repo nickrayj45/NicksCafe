@@ -4,6 +4,7 @@
   box-sizing: border-box;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
+  color: #fff;
 }
 
 .clearfix:after {
@@ -13,7 +14,7 @@
 }
 
 body {
-  background: #f2a65a;
+  background: #8a4602;
   font-size: 18px;
   text-align: center;
 }
